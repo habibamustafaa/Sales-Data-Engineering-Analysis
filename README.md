@@ -31,7 +31,7 @@ This project demonstrates a complete data workflow on a retail dataset. It cover
 ├── sales.db                           # SQLite database (auto-generated)  
 └── README.md                          # Project documentation  
 
-** How to Run **
+**How to Run**
 
 Clone the repository
 
