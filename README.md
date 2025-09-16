@@ -1,4 +1,4 @@
-*Sales Data Engineering & Analysis Project*
+**Sales Data Engineering & Analysis Project**
 
 This project demonstrates a complete data workflow on a retail dataset. It covers data cleaning, transformation, storage in SQLite, SQL querying, and data visualization using Python libraries.
 
@@ -25,13 +25,13 @@ This project demonstrates a complete data workflow on a retail dataset. It cover
 
 -Line chart showing monthly sales performance. This visualization highlights seasonal trends and helps identify peaks and dips in revenue.
 
-📂 Project Structure
+**Project Structure**
 ├── Sales_Data_Analysis_Project.ipynb   # Jupyter Notebook (main project)  
 ├── train.csv                          # Dataset  
 ├── sales.db                           # SQLite database (auto-generated)  
 └── README.md                          # Project documentation  
 
-▶️ How to Run
+** How to Run **
 
 Clone the repository
 
